@@ -1,0 +1,6 @@
+{
+  "name": "RailLive - Train Running Status & Timetable",
+  "description": "Live train running status, route timetable, platform locator, PNR tracking, and coach position for Indian Railways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
